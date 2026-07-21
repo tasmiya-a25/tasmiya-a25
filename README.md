@@ -49,57 +49,5 @@
 <tr>
 <td width="50%" valign="top">
 
-### `[01]` Enterprise Multi-Agent AI Platform
-LangGraph orchestration · WebSocket streaming · Celery workers · PostgreSQL/Redis/Qdrant · Docker/K8s/CI-CD
 
-`Python` `FastAPI` `LangGraph` `PostgreSQL` `Redis` `Qdrant` `Docker` `K8s`
 
-`$` [`cd enterprise-multi-agent-ai-platform`](https://github.com/tasmiya-a25/enterprise-multi-agent-ai-platform)
-
-</td>
-<td width="50%" valign="top">
-
-### `[02]` Enterprise RAG Knowledge Platform
-Hybrid retrieval (BM25 + BGE + RRF) · Cross-encoder reranking · RBAC · Admin analytics · Eval harness (Hit@K, MRR)
-
-`Python` `FastAPI` `Qdrant` `PostgreSQL` `React` `TypeScript` `Docker`
-
-`$` [`cd Enterprise-RAG-Knowledge-Platform`](https://github.com/tasmiya-a25/Enterprise-RAG-Knowledge-Platform)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `[03]` Multilingual AI Chatbot
-Multi-language NLP · Context-aware responses · Persistent conversation state
-
-`Python` `NLP` `LLMs` `React`
-
-`$` [`cd Multilingual-AI-Chatbot`](https://github.com/tasmiya-a25/Multilingual-AI-Chatbot)
-
-</td>
-<td width="50%" valign="top">
-
-### `[04]` Plant Disease Detection
-CNN-based leaf image classification · Early intervention support
-
-`Python` `TensorFlow` `CNN` `Computer Vision`
-
-`$` [`cd Plant-Disease-Detection`](https://github.com/tasmiya-a25/Plant-Disease-Detection)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `> contribution_graph.render()`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasmiya-a25&theme=react-dark&bg_color=1a0f2e&color=ff9ecd&line=ff9ecd&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecd,100:1a0f2e&height=120&section=footer" width="100%"/>
-</div>
