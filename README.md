@@ -43,11 +43,6 @@
 
 <br>
 
-## `> ./run_projects.sh`
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 
 
