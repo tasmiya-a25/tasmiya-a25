@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./dashboard-preview.png" width="100%" alt="Tasmiya A — System Dashboard"/>
+<img src="./profile-dashboard.svg" width="950" alt="Tasmiya A — Holographic System Dashboard"/>
 
 <br><br>
 
