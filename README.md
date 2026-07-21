@@ -1,42 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=TASMIYA%20A&fontSize=55&fontAlignY=35&desc=%3E%20AI_ENGINEER%20%7C%20FULL_STACK_DEV&descAlignY=55&descSize=16&fontColor=00ff41&animation=fadeIn" width="100%"/>
+<img src="./dashboard-preview.png" width="100%" alt="Tasmiya A — System Dashboard"/>
 
-<br>
+<br><br>
 
-<svg width="150" height="150" viewBox="0 0 150 150">
-  <defs>
-    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00ff41"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-  </defs>
-  <circle cx="75" cy="75" r="65" fill="none" stroke="url(#ring)" stroke-width="4" stroke-dasharray="30 10">
-    <animateTransform attributeName="transform" type="rotate" from="0 75 75" to="360 75 75" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="75" cy="75" r="55" fill="#0d1117" stroke="#00ff41" stroke-width="2"/>
-  <text x="75" y="88" font-family="Fira Code, monospace" font-size="42" fill="#00ff41" text-anchor="middle">TA</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,100:ff9ecd&height=180&section=header&text=TASMIYA%20A&fontSize=48&fontAlignY=35&desc=%3E%20AI_ENGINEER%20%7C%20FULL_STACK_DEV&descAlignY=55&descSize=15&fontColor=ffe0f0&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&lines=root%40tasmiya%3A~%23+initializing_systems...;%5BOK%5D+Multi-Agent+Orchestration+loaded;%5BOK%5D+RAG+Pipeline+compiled;%5BOK%5D+Production+deploy+ready;access_granted+%3A%3A+welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=ff9ecd&background=1a0f2e&center=true&vCenter=true&width=700&lines=root%40tasmiya%3A~%23+initializing_systems...;%5BOK%5D+Multi-Agent+Orchestration+loaded;%5BOK%5D+RAG+Pipeline+compiled;%5BOK%5D+Production+deploy+ready;access_granted+%3A%3A+welcome)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-00ff41?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/BUILD-PASSING-00ff41?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-ff9ecd?style=for-the-badge&labelColor=1a0f2e"/>
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-ff9ecd?style=for-the-badge&labelColor=1a0f2e"/>
+  <img src="https://img.shields.io/badge/BUILD-PASSING-ff9ecd?style=for-the-badge&labelColor=1a0f2e"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/tasmiya-a25"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41"/></a>
+  <a href="https://github.com/tasmiya-a25"><img src="https://img.shields.io/badge/GITHUB-1a0f2e?style=for-the-badge&logo=github&logoColor=ff9ecd"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-1a0f2e?style=for-the-badge&logo=linkedin&logoColor=ff9ecd"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-1a0f2e?style=for-the-badge&logo=vercel&logoColor=ff9ecd"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MAIL-1a0f2e?style=for-the-badge&logo=gmail&logoColor=ff9ecd"/></a>
 </div>
 
 <br>
@@ -47,8 +35,8 @@
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,typescript,nodejs&theme=dark&perline=8"/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=dark&perline=8"/>
-<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/LangGraph-1a0f2e?style=flat-square&logo=langchain&logoColor=ff9ecd"/>
+<img src="https://img.shields.io/badge/Qdrant-1a0f2e?style=flat-square&logoColor=ff9ecd"/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,git,githubactions&theme=dark&perline=8"/>
 
 </div>
@@ -109,9 +97,9 @@ CNN-based leaf image classification · Early intervention support
 ## `> contribution_graph.render()`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasmiya-a25&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasmiya-a25&theme=react-dark&bg_color=1a0f2e&color=ff9ecd&line=ff9ecd&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecd,100:1a0f2e&height=120&section=footer" width="100%"/>
 </div>
